@@ -1,12 +1,12 @@
 # Empty Classroom
 
-## HD version for Roblox (R6 scale)
+## HD version for Roblox (true to life, R6 scale)
 
-![HD preview with R6 scale dummies](preview_hd.jpg)
+![HD preview](preview_hd.jpg)
 
-**Download:** [classroom_hd.zip](https://github.com/155xp/empty-classroom-model/releases/download/v2/classroom_hd.zip)
+**Download:** [classroom_hd.zip](https://github.com/155xp/empty-classroom-model/releases/latest/download/classroom_hd.zip)
 
-About 223k triangles. `classroom_roblox.glb` is already in studs and sized for R6 players (1 m = 5 studs; chairs fit an R6, room is about 72 x 63 x 15 studs with desks spaced 1.5x apart) and split into 292 parts, each with one material and under Roblox's 20k-triangle limit. Also includes the Blender source in meters.
+About 392k triangles. The room is modeled 1:1 from the photos (8.5 x 9.75 m, 3.2 m ceiling) with real furniture sizes. `classroom_roblox.glb` is already in studs (1 m = 5 studs, so a seated R6 matches a seated student; room is about 42.5 x 49 x 16 studs) and split into 413 single-material parts under Roblox's 20k-triangle limit. Also includes the Blender source in meters.
 
 ## Original low-poly version
 
