@@ -6,41 +6,53 @@
 
 **Download:** [classroom_hd.zip](https://github.com/155xp/empty-classroom-model/releases/latest/download/classroom_hd.zip)
 
-About 392k triangles. The room is modeled 1:1 from the photos (8.5 x 9.75 m, 3.2 m ceiling) with real furniture sizes. `classroom_roblox.glb` is already in studs (1 m = 5 studs, so a seated R6 matches a seated student; room is about 42.5 x 49 x 16 studs) and split into 413 single-material parts under Roblox's 20k-triangle limit. Also includes the Blender source in meters.
+About 325k triangles. The room is 7.32 x 9.75 m (24 x 32 ft) with a 3.35 m ceiling, re-measured from the photos: ceiling tiles were counted along the front wall, then the cameras and front-wall layout were solved together from two photos (about 3 px error). Desks, TV, whiteboard, oak cabinet, clock, door and the 3 x 4 grid of 2x4 lights sit where the photos put them. Posters and boards are generic stand-ins. `classroom_roblox.glb` is already in studs (1 m = 5 studs, so a seated R6 matches a seated student; room is about 36.6 x 48.8 x 16.8 studs) and split into 366 single-material parts under Roblox's 20k-triangle limit. Also includes the Blender source in meters.
 
 ### Renders
 
-**Front wall from the back row**
+**Front wall from the back row (same angle as photo IMG_0074)**
 
-![Front wall from the back row](renders/01_front_like_IMG0074.jpg)
+![Front wall from the back row (same angle as photo IMG_0074)](renders/01_like_IMG0074.jpg)
 
-**Cabinet wall from the back row**
+**Front wall, 1x lens from the back row (same angle as IMG_0079)**
 
-![Cabinet wall from the back row](renders/02_east_like_IMG0078.jpg)
+![Front wall, 1x lens from the back row (same angle as IMG_0079)](renders/02_like_IMG0079.jpg)
+
+**Toward the door and cabinets (same angle as IMG_0075)**
+
+![Toward the door and cabinets (same angle as IMG_0075)](renders/03_like_IMG0075.jpg)
+
+**Window wall with the back-wall boards on the right (same angle as IMG_0078)**
+
+![Window wall with the back-wall boards on the right (same angle as IMG_0078)](renders/04_like_IMG0078.jpg)
+
+**Left wall looking toward the front (same angle as IMG_0076)**
+
+![Left wall looking toward the front (same angle as IMG_0076)](renders/05_like_IMG0076.jpg)
+
+**Whole room from the back wall**
+
+![Whole room from the back wall](renders/06_front_wide.jpg)
 
 **Back wall from the front corner**
 
-![Back wall from the front corner](renders/03_back_wall.jpg)
+![Back wall from the front corner](renders/07_back_wall.jpg)
 
-**Front wall up close**
+**Oak cabinet with the PA speaker and clock, door with transom**
 
-![Front wall up close](renders/04_front_wall_like_IMG0079.jpg)
+![Oak cabinet with the PA speaker and clock, door with transom](renders/08_clock_corner.jpg)
 
-**Top-down layout**
+**Desk and chair close-up (grey blocks are R6 dummies)**
 
-![Top-down layout](renders/05_plan_top.jpg)
+![Desk and chair close-up (grey blocks are R6 dummies)](renders/09_desk_chair_detail.jpg)
 
 **R6 scale check (grey blocks are R6 dummies)**
 
-![R6 scale check (grey blocks are R6 dummies)](renders/06_r6_scale.jpg)
+![R6 scale check (grey blocks are R6 dummies)](renders/10_r6_scale.jpg)
 
-**Desk and chair close-up**
+**Top-down layout**
 
-![Desk and chair close-up](renders/07_desk_chair_detail.jpg)
-
-**Seated R6 from the side, legs clear the desk**
-
-![Seated R6 from the side, legs clear the desk](renders/08_r6_side.jpg)
+![Top-down layout](renders/11_plan_top.jpg)
 
 ## Original low-poly version
 
