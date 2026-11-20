@@ -6,13 +6,21 @@
 
 **Download:** [classroom_hd.zip](https://github.com/155xp/empty-classroom-model/releases/latest/download/classroom_hd.zip)
 
-About 325k triangles. The room is 7.32 x 9.75 m (24 x 32 ft) with a 3.35 m ceiling, re-measured from the photos: ceiling tiles were counted along the front wall, then the cameras and front-wall layout were solved together from two photos (about 3 px error). Desks, TV, whiteboard, oak cabinet, clock, door and the 3 x 4 grid of 2x4 lights sit where the photos put them. Posters and boards are generic stand-ins. `classroom_roblox.glb` is already in studs (1 m = 5 studs, so a seated R6 matches a seated student; room is about 36.6 x 48.8 x 16.8 studs) and split into 366 single-material parts under Roblox's 20k-triangle limit. Also includes the Blender source in meters.
+About 283k triangles. The room is 7.32 x 8.53 m (24 x 28 ft) with a 3.38 m ceiling, measured from the photos: ceiling tiles counted along the front wall, cameras and front-wall layout solved together from two photos (about 3 px error), and the desk grid (5 columns about 1.05 m apart, 4 rows about 0.95 m apart) located from where the students and their laptops sit. Posters and boards are generic stand-ins. `classroom_roblox.glb` is already in studs at **1 m = 6.5 studs**, so an R6 head is the size of the students' heads in the photos (room is about 47.6 x 55.4 x 22 studs). It is split into 329 single-material parts under Roblox's 20k-triangle limit. Also includes the Blender source in meters.
 
 ### Renders
 
-**Front wall from the back row (same angle as photo IMG_0074)**
+**Seated R6s at the desks, same angle as IMG_0079 (R6 heads match the students' heads)**
 
-![Front wall from the back row (same angle as photo IMG_0074)](renders/01_like_IMG0074.jpg)
+![Seated R6s at the desks, same angle as IMG_0079 (R6 heads match the students' heads)](renders/12_seated_R6s_like_IMG0079.jpg)
+
+**Seated R6s at the desks, same angle as IMG_0074**
+
+![Seated R6s at the desks, same angle as IMG_0074](renders/13_seated_R6s_like_IMG0074.jpg)
+
+**Front wall from the back row (same angle as IMG_0074)**
+
+![Front wall from the back row (same angle as IMG_0074)](renders/01_like_IMG0074.jpg)
 
 **Front wall, 1x lens from the back row (same angle as IMG_0079)**
 
@@ -42,9 +50,9 @@ About 325k triangles. The room is 7.32 x 9.75 m (24 x 32 ft) with a 3.35 m ceili
 
 ![Oak cabinet with the PA speaker and clock, door with transom](renders/08_clock_corner.jpg)
 
-**Desk and chair close-up (grey blocks are R6 dummies)**
+**Desk and chair close-up**
 
-![Desk and chair close-up (grey blocks are R6 dummies)](renders/09_desk_chair_detail.jpg)
+![Desk and chair close-up](renders/09_desk_chair_detail.jpg)
 
 **R6 scale check (grey blocks are R6 dummies)**
 
